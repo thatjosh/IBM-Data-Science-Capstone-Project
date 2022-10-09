@@ -9,8 +9,6 @@
 
 ## Libraries used
 
-w
-
 - Webscraping: BeautifulSoup
 - Data cleaning: Pandas, Numpy
 - Data modelling: Scikit-learn
