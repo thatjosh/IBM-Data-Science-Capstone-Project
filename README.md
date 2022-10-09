@@ -1,4 +1,6 @@
-# IBM Data Science CapstoneProject
+# IBM Python Data Science Capstone Project
+
+![alt text](https://raw.githubusercontent.com/thatjosh/ibm-data-science-capstone-project/master/Delivery_pic.PNG)
 
 ## About this Project
 
@@ -7,7 +9,9 @@
 
 ## Libraries used
 
+w
+
 - Webscraping: BeautifulSoup
 - Data cleaning: Pandas, Numpy
-- Data modelling: scikit-learn
+- Data modelling: Scikit-learn
 - Data visualisation: MatPlotLib, Folium
